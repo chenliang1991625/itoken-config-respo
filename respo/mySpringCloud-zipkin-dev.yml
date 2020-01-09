@@ -1,6 +1,6 @@
 spring:
   application:
-    name: [project]-zipkin
+    name: mySpringCloud-zipkin
 
 server:
   port: 9411

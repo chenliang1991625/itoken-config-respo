@@ -1,6 +1,6 @@
 spring:
   application:
-    name: [project]-service-upload
+    name: mySpringCloud-service-upload
 
 server:
   port: 9100

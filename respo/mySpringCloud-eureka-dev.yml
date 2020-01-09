@@ -1,6 +1,6 @@
 spring:
   application:
-    name: [project]-eureka
+    name: mySpringCloud-eureka
 
 server:
   port: 8761

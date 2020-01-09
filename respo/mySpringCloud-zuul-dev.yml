@@ -1,6 +1,6 @@
 spring:
   application:
-    name: [project]-zuul
+    name: mySpringCloud-zuul
 
 server:
   port: 8769
@@ -9,7 +9,7 @@ zuul:
   routes:
     backend-admin:
       path: /backend/admin/**
-      serviceId: [project]-web-admin
+      serviceId: mySpringCloud-web-admin
     backend-posts:
       path: /backend/posts/**
-      serviceId: [project]-web-posts
+      serviceId: mySpringCloud-web-posts

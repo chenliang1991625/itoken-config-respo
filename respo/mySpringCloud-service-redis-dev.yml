@@ -1,6 +1,6 @@
 spring:
   application:
-    name: [project]-service-redis
+    name: mySpringCloud-service-redis
 
 server:
   port: 9000
